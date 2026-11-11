@@ -96,7 +96,7 @@ I am a B.Tech Information Technology student focused on becoming a **Full Stack 
 
 ## 🤝 Connect With Me
 
-- **GitHub:** https://github.com/YOUR_USERNAME
+- **GitHub:** https://github.com/arshmalik9927
 
 ---
 
